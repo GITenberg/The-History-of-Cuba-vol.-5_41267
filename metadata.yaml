@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36704'
     url: http://www.gutenberg.org/2009/agents/36704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41267#The-History-of-Cuba-vol.-5
 gutenberg_issued: '2012-11-02'
 gutenberg_type: Text
 identifiers:
